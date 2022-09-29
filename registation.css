@@ -1,0 +1,27 @@
+#form{
+    
+    color: darkblue;
+    margin-right: 30px;
+    
+}
+#Name{
+    margin-left: 45px;
+}
+#name{
+    margin-left: 41px;
+}
+#email{
+    margin-left: 74px;
+}
+#phonenumber{
+    margin-left: 8px;
+}
+#father{
+    margin-left: 27px;
+}
+#mother{
+    margin-left: 18px;
+}
+#date{
+    margin-left: 57px;
+}

@@ -1,0 +1,28 @@
+.navbar{
+    font-style: italic;
+    background-color: brown;
+    color: antiquewhite;
+}
+#icon{
+    margin-right: 1100px;
+    color: black;
+}
+#home{
+    background-color: aqua;
+    color: blue;
+}
+#regst{
+    background-color: blanchedalmond;
+    color: blueviolet;
+}
+#login{
+    background-color: darkgoldenrod;
+    color: cyan;
+}
+#card{
+    margin-top: 1in;
+    border-radius: 01cm;
+    width: 18rem;
+     border-color: black;
+    border: double;
+}

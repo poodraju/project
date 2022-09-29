@@ -1,0 +1,12 @@
+#username{
+    background-color: aqua;
+    color:blue;
+}
+#password{
+    background-color: chocolate;
+    color: blue;
+}
+#submit{
+    color: white;
+    background-color: red;
+}
